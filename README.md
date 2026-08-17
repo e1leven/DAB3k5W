@@ -38,5 +38,5 @@ DAB prototype developed as part of the Master's thesis, *"Design and Implementat
 #### Gate driver board
 
 <p align="center">
-  <img src="images/gate_driver_board_3D_top-view.png" width="60%">
+  <img src="images/gate_driver_board_3D_top-view.png" width="20%">
 </p>
