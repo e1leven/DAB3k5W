@@ -29,13 +29,14 @@ DAB prototype developed as part of the Master's thesis, *"Design and Implementat
 
 ## PCB 3D Views
 
-### Power board
+#### Power board
 
 ![Power Board 3D Top View](images/power_board_3D_top-view.png)
 
 ![Power Board 3D Bottom View](images/power_board_3D_bottom-view.png)
 
-### Gate driver board
+#### Gate driver board
 
-![Gate Driver Board 3D Top View](images/gate_driver_board_3D_top-view.png)
-
+<p align="center">
+  <img src="images/gate_driver_board_3D_top-view.png" width="60%">
+</p>
