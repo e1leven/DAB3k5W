@@ -23,20 +23,28 @@ DAB prototype developed as part of the Master's thesis, *"Design and Implementat
  
 ## Prototype
 
-![DAB3k5W Front View](images/DAB3k5W_front-view.jpeg)
+<p align="center">
+  <img src="images/DAB3k5W_front-view.jpeg" width="100%">
+</p>
 
-![DAB3k5W Side View](images/DAB3k5W_side-view.jpeg)
+<p align="center">
+  <img src="images/DAB3k5W_side-view.jpeg" width="80%">
+</p>
 
 ## PCB 3D Views
 
 #### Power board
 
-![Power Board 3D Top View](images/power_board_3D_top-view.png)
+<p align="center">
+  <img src="images/power_board_3D_top-view.png" width="80%">
+</p>
 
-![Power Board 3D Bottom View](images/power_board_3D_bottom-view.png)
+<p align="center">
+  <img src="images/power_board_3D_bottom-view.png" width="80%">
+</p>
 
 #### Gate driver board
 
 <p align="center">
-  <img src="images/gate_driver_board_3D_top-view.png" width="20%">
+  <img src="images/gate_driver_board_3D_top-view.png" width="30%">
 </p>
