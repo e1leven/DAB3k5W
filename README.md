@@ -1,6 +1,6 @@
 # 3.5 kW Dual Active Bridge Converter 
 
-DAB prototype developed as part of the Master's thesis, *"Design and Implementation of a Dual Active Bridge DC-DC Converter for Photovoltaic Integration in a DC Microgrid"*, awarded the maximum grade (20/20) ([thesis](https://hdl.handle.net/10216/174149)).
+DAB prototype developed as part of the Master's thesis, *"Design and Implementation of a Dual Active Bridge DC-DC Converter for Photovoltaic Integration in a DC Microgrid"*, awarded the maximum grade of 20/20 ([see thesis here](https://hdl.handle.net/10216/174149)).
 
 | Parameter | Value |
 |:---|---:|
